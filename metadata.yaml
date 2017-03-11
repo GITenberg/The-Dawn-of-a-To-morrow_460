@@ -1,5 +1,5 @@
 _repo: The-Dawn-of-a-To-morrow_460
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Yohn, F. C. (Frederick Coffay)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26457'
     url: http://www.gutenberg.org/2009/agents/26457
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -24,6 +27,8 @@ description: Grand Opera House, Harry L. Hamlin, manager, Harry Askin, business 
   Eleanor Robson (Liebler & Co., managers) in Mrs. Frances Hodgson Burnett's play
   of cheerfulness "The Dawn of a Tomorrow," which ran an entire season at the Lyceum
   Theater, New York.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/460#The-Dawn-of-a-To-morrow
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '1996-03-01'
 gutenberg_type: Text
